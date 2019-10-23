@@ -1,1 +1,1 @@
-# MLHarvardX
+# MachineLearning_HarvardX
